@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Masa
 
-<!--
-**masaNaser/masaNaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Front-end Developer
 
-Here are some ideas to get you started:
+- 🎓 Senior at Palestine Technical University – Kadoorie
+- 🌍 Palestine
+- 📧 Email: masanaser2003@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/masanaser/)
+
+---
+
+### 🛠 Skills
+- React
+- JavaScript
+- HTML / CSS
+- Material UI
+- Tailwind CSS
+
